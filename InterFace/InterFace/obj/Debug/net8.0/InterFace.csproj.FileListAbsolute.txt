@@ -1,0 +1,14 @@
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\bin\Debug\net8.0\InterFace.exe
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\bin\Debug\net8.0\InterFace.deps.json
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\bin\Debug\net8.0\InterFace.runtimeconfig.json
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\bin\Debug\net8.0\InterFace.dll
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\bin\Debug\net8.0\InterFace.pdb
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.AssemblyInfoInputs.cache
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.AssemblyInfo.cs
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.csproj.CoreCompileInputs.cache
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.dll
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\refint\InterFace.dll
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.pdb
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\InterFace.genruntimeconfig.cache
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\InterFace\InterFace\obj\Debug\net8.0\ref\InterFace.dll
